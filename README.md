@@ -6,10 +6,6 @@ I work across **React Native + TypeScript** for cross-platform apps, **native An
 
 **Currently learning:** Kotlin + Jetpack Compose, and React Native performance patterns.
 
-### Featured project
-**[Moots](https://github.com/alxurb1/moots)** — Restaurant web app for a local business in Chalchuapa, El Salvador. Built the customer-facing frontend end-to-end.
-`React` · `TypeScript` · `Vite` · `Tailwind` · `Supabase (RLS)`
-
 ### Stack
 **Mobile:** React Native · TypeScript · Redux · Android SDK (Java)
 **Web:** React · Node · Express · Vite · Tailwind
