@@ -14,4 +14,9 @@ I work across **React Native + TypeScript** for cross-platform apps, **native An
 ### Reach me
 [LinkedIn](https://linkedin.com/in/oscarurbaez) · [o.martinezurbaez@gmail.com](mailto:o.martinezurbaez@gmail.com)
 
+
+### Portafolio
+
+[alxurb1.github.io/Portafolio](https://alxurb1.github.io/Portafolio/)
+
 *Open to remote mobile / full-stack roles — nearshore or global.*
